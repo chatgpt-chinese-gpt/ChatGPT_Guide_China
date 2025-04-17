@@ -113,24 +113,3 @@
 [👉 免费使用GPT-4中文版](https://snakegpt.chat) 
 
 ---
-
-```html
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "2025年ChatGPT中文版国内直连指南",
-  "datePublished": "2025-04-17",
-  "author": {
-    "@type": "Organization",
-    "name": "AI工具导航",
-    "url": "https://github.com/your-repo"
-  },
-  "description": "无需翻墙使用GPT-4和Claude-3的中文镜像站推荐，包含隐私保护措施、使用教程与企业级解决方案。",
-  "keywords": "ChatGPT中文版, GPT-4镜像站, 免翻墙AI工具, Claude-3国内使用"
-}
-</script>
-```
-
-
-
