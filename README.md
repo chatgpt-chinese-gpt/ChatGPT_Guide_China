@@ -44,10 +44,10 @@
 
 | **站点名称**       | **模型支持**                              | **免费额度** | **独家功能**                          | **适合人群**          |  
 |--------------------|-----------------------------------------|--------------|---------------------------------------|-----------------------|  
-| [SnakeGPT.chat](https://snakegpt.chat)   | GPT-4o, GPT-4, Claude-3, DeepSeek-R1    | 20次/日      | 实时联网搜索、AI绘图、PDF解析         | 开发者/设计师/学生    |  
-| [GPTCat.cc](https://gptcat.cc)         | GPT-4, Gemini Pro, GPT-3.5-Turbo       | 15次/日      | 语音对话、视频交互、多角色扮演        | 教育/客服/个人用户    |  
-| [AI-Panda.xyz](https://ai-panda.xyz)   | GPT-4, GPT-3.5, 文心一言               | 10次/日      | API接入、批量任务处理、私有化部署     | 企业开发者/技术团队   |  
-| [ChatDog.tech](https://chatdog.tech)   | GPT-3.5, Claude Instant                | 无限次       | 极简界面、快速响应                    | 基础聊天/轻量级需求   |  
+| [SnakeGPT.chat](https://snakegpt.chat)   | GPT-4o, GPT-4, Claude-3, DeepSeek-R1    | 有限      | 实时联网搜索、AI绘图、PDF解析         | 开发者/设计师/学生    |  
+| [GPTCat.cc](https://gptcat.cc)         | GPT-4, Gemini Pro, GPT-3.5-Turbo       | 10次/日      | 语音对话、视频交互、多角色扮演        | 教育/客服/个人用户    |  
+| [AI-Panda.xyz](https://ai-panda.xyz)   | GPT-4, GPT-3.5              | 有限      | API接入、批量任务处理、私有化部署     | 企业开发者/技术团队   |  
+
 
 **评测维度**：响应速度、多轮对话连贯性、复杂任务处理能力、隐私政策透明度  
 
