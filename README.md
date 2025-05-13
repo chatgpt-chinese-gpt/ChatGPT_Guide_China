@@ -1,14 +1,14 @@
 # ChatGPT中文版：国内直连指南（免翻墙使用GPT-4，2025年5月最新）  
 
-> **最后更新：2025/05/13**   
+> **最后更新：2025/05/14**   
 > **作者：AI工具导航**  
 
-**无需翻墙！**[点击此处立即体验全功能GPT-4中文版](https://snakegpt.chat)  
+**无需翻墙！**[点击此处立即体验全功能GPT-4中文版](https://snakegpt.com.cn)  
 本文为国内用户推荐经过严格测试的 **ChatGPT中文镜像站**，支持GPT-4、GPT-3.5、Claude等模型，覆盖写作、编程、翻译等场景，提供**免费额度+国内邮箱注册**，无需复杂设置。  
 
 ✅ **推荐镜像站**：  
-- **[SnakeGPT.chat](https://snakegpt.chat)**：运营2年，支持GPT-4o实时对话，内置AI绘图  
-- **[GPTCat.cc](https://gptcat.cc)**：1:1还原官网界面，支持语音/视频交互  
+- **[Snakegpt.com.cn](https://snakegpt.com.cn)**：运营2年，支持GPT-4o实时对话，内置AI绘图  
+- **[Chat2.gptcat.cc](https://chat2.gptcat.cc)**：1:1还原官网界面，支持语音/视频交互  
 
 ---
 
@@ -44,8 +44,8 @@
 
 | **站点名称**       | **模型支持**                              | **免费额度** | **独家功能**                          | **适合人群**          |  
 |--------------------|-----------------------------------------|--------------|---------------------------------------|-----------------------|  
-| [SnakeGPT.chat](https://snakegpt.chat)   | GPT-4o, GPT-4, Claude-3, DeepSeek-R1    | 有限      | 实时联网搜索、AI绘图、PDF解析         | 开发者/设计师/学生    |  
-| [GPTCat.cc](https://gptcat.cc)         | GPT-4, Gemini Pro, GPT-3.5-Turbo       | 10次/日      | 语音对话、视频交互、多角色扮演        | 教育/客服/个人用户    |  
+| [Snakegpt.com.cn](https://snakegpt.com.cn)   | GPT-4o, GPT-4, Claude-3, DeepSeek-R1    | 有限      | 实时联网搜索、AI绘图、PDF解析         | 开发者/设计师/学生    |  
+| [Chat2.gptcat.cc](https://chat2.gptcat.cc)         | GPT-4, Gemini Pro, GPT-3.5-Turbo       | 10次/日      | 语音对话、视频交互、多角色扮演        | 教育/客服/个人用户    |  
 | [AI-Panda.xyz](https://ai-panda.xyz)   | GPT-4, GPT-3.5              | 有限      | API接入、批量任务处理、私有化部署     | 企业开发者/技术团队   |  
 
 
@@ -68,7 +68,7 @@
 ## <span id="使用教程">🎯 三步极速上手教程</span>  
 
 ### **步骤1：选择镜像站并注册**  
-访问 [SnakeGPT.chat](https://snakegpt.chat)，点击“免费体验” → 输入邮箱获取验证码 → 设置密码（或微信扫码登录）。  
+访问 [Snakegpt.com.cn](https://snakegpt.com.cn)，点击“免费体验” → 输入邮箱获取验证码 → 设置密码（或微信扫码登录）。  
 
 ### **步骤2：选择AI模型与应用场景**  
 - **模型选择**：点击顶部菜单切换GPT-4o（实时联网）或Claude-3（长文本分析）。  
@@ -110,6 +110,6 @@
 
 ### 🚀 **立即行动**  
 点击下方按钮开始体验：  
-[👉 免费使用GPT-4中文版](https://snakegpt.chat) 
+[👉 免费使用GPT-4中文版](https://snakegpt.com.cn) 
 
 ---
