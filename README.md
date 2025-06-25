@@ -1,6 +1,6 @@
-# ChatGPT中文版：国内直连指南（免翻墙使用GPT-4，2025年5月最新）  
+# ChatGPT中文版：国内直连指南（免翻墙使用GPT-4，2025年6月最新）  
 
-> **最后更新：2025/05/28**   
+> **最后更新：2025/06/25**   
 > **作者：AI工具导航**  
 
 **无需翻墙！**[点击此处立即体验全功能GPT-4中文版](https://snakegpt.com.cn)  
@@ -8,7 +8,7 @@
 
 ✅ **推荐镜像站**：  
 - **[Snakegpt.com.cn](https://snakegpt.com.cn)**：运营2年，支持GPT-4o实时对话，内置AI绘图  
-- **[Chat2.gptcat.cc](https://chat2.gptcat.cc)**：1:1还原官网界面，支持语音/视频交互  
+- **[gptcat.cc](https://gptcat.cc)**：1:1还原官网界面，支持语音/视频交互  
 
 ---
 
@@ -45,7 +45,7 @@
 | **站点名称**       | **模型支持**                              | **免费额度** | **独家功能**                          | **适合人群**          |  
 |--------------------|-----------------------------------------|--------------|---------------------------------------|-----------------------|  
 | [Snakegpt.com.cn](https://snakegpt.com.cn)   | GPT-4o, GPT-4, Claude-3, DeepSeek-R1    | 有限      | 实时联网搜索、AI绘图、PDF解析         | 开发者/设计师/学生    |  
-| [Chat2.gptcat.cc](https://chat2.gptcat.cc)         | GPT-4, Gemini Pro, GPT-3.5-Turbo       | 10次/日      | 语音对话、视频交互、多角色扮演        | 教育/客服/个人用户    |  
+| [gptcat.cc](https://gptcat.cc)         | GPT-4, Gemini Pro, GPT-3.5-Turbo       | 10次/日      | 语音对话、视频交互、多角色扮演        | 教育/客服/个人用户    |  
 | [AI-Panda.xyz](https://ai-panda.xyz)   | GPT-4, GPT-3.5              | 有限      | API接入、批量任务处理、私有化部署     | 企业开发者/技术团队   |  
 
 
